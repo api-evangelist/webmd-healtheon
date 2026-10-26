@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-WebMD (Healtheon) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.webmd.com/
+WebMD (Healtheon) provides health information, tools and services through its extensive online platform. It offers medical content, symptom checkers, drug information, and personalized health resources to consumers and professionals. The company integrates various APIs for content delivery, user personalization, and data analytics, supporting developers in building health‑focused applications and services.
+
+**Areas:** Company · Health · Information · API · Consumer · Professional
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.webmd.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/webmd-healtheon/](https://apis.io/providers/webmd-healtheon/).
